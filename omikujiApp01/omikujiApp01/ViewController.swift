@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  omikujiApp01
 //
-//  Created by 鶴尾直幸 on 2020/01/08.
+//  Created by tsuku on 2020/01/08.
 //  Copyright © 2020 Tsuku. All rights reserved.
 //
 
